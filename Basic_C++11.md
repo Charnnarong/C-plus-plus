@@ -34,7 +34,7 @@
 แต่ถ้าไม่ระบบุว่าต้องการให้รีเทิร์นค่าแบบใด คอมไพเลอร์จะทำการจะพยายามหาว่าจะต้องคืนค่าชนิดใด ( duduction process)
 
 ```cpp
-	auto mul = [](double a , int b){return a * b;}; return as double;
+	auto mul = [](double a , int b){return a * b;}; //return as double;
 	cout<<sizeof(mul(3,4))<<endl; 
 ```
 
