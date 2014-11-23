@@ -375,8 +375,11 @@ int main()
 ## References
 
 [http://en.cppreference.com/w/cpp/language/lambda](http://en.cppreference.com/w/cpp/language/lambda)
+
 [http://en.cppreference.com/w/cpp/utility/functional/function](http://en.cppreference.com/w/cpp/utility/functional/function)
+
 [http://stackoverflow.com/questions/3867276/can-the-type-of-a-lambda-expression-be-expressed](http://stackoverflow.com/questions/3867276/can-the-type-of-a-lambda-expression-be-expressed)
+
 [http://stackoverflow.com/questions/9620098/explicit-return-type-of-lambda](http://stackoverflow.com/questions/9620098/explicit-return-type-of-lambda)
 
 
